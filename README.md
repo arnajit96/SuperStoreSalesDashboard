@@ -18,24 +18,25 @@ DASHBOARD CONTENT AND KEY INSIGHTS:
 
 KPI's:- 
 
-Sum of Sales: This provides a snapshot of the total number of Sales in Super Store. 
+Sum of Sales:-  This provides a snapshot of the total number of Sales in Super Store. 
 
-Sum of Quantity: It provides the total number of quantities in Super Store. 
+Sum of Quantity:-  It provides the total number of quantities in Super Store. 
 
-Sum of Profit: It calculates the sum of Profit year-wise in Superstore. Average of Delivery: It calculates the average number of deliveries year-wise in Superstore.
+Sum of Profit:-  It calculates the sum of Profit year-wise in Superstore. Average of Delivery: It calculates the average number of deliveries year-wise in Superstore.
 
-Sales by Payment Mode: Delved into payment modes, understanding the preferred transaction methods that resonate with our customer base.
+Sales by Payment Mode:-  Delved into payment modes, understanding the preferred transaction methods that resonate with our customer base.
 
-Sales by Region: Mapped out the geographical impact on sales, unravelling opportunities for targeted growth in specific regions.
+Sales by Region:-  Mapped out the geographical impact on sales, unravelling opportunities for targeted growth in specific regions.
 Profit by Month and Year: Navigated through profit trends over time, identifying pivotal months and years that contribute significantly to our bottom line.
 
-Sales by Sub-category: Examined sub-categories, discerning high-performing product lines and areas for potential expansion.
+Sales by Sub-category:-  Examined sub-categories, discerning high-performing product lines and areas for potential expansion.
 Sum of Sales by Month and Year: Aggregated sales data, providing a comprehensive overview of our revenue stream and enabling strategic planning.
 
-Sales by Category: Categorized sales insights, understanding the strengths and areas for improvement within our product offerings. Sales by Ship Mode: Explored shipping modes, optimizing delivery strategies for enhanced customer satisfaction and efficiency.
-Sales and Profit by State: Drilled down into state-wise performance, fine-tuning strategies for regions that significantly impact our sales and profit margins.
+Sales by Category:-  Categorized sales insights, understanding the strengths and areas for improvement within our product offerings. Sales by Ship Mode: Explored shipping modes, optimizing delivery strategies for enhanced customer satisfaction and efficiency.
 
-Sales and Ship Mode: Sales by Ship Mode: Explored shipping modes, optimizing delivery strategies for enhanced customer satisfaction and efficiency.
+Sales and Profit by State:-  Drilled down into state-wise performance, fine-tuning strategies for regions that significantly impact our sales and profit margins.
+
+Sales and Ship Mode:-  Sales by Ship Mode: Explored shipping modes, optimizing delivery strategies for enhanced customer satisfaction and efficiency.
 
 Sales Forecasting:
 Leverage historic data and apply time series analysis to generate sales forecasts for the next 15 days.
