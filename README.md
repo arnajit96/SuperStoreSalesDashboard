@@ -4,7 +4,7 @@ The Super Store Sales Dashboard is a Power BI-based project that provides insigh
 
 Tool Used:-
 
-Excel (For Data Cleaning Purpose) 
+Excel (For Data Cleaning Purpose)  
 Power Bi (For creating dashboard and Presentation)
 
 Steps Overview: 
