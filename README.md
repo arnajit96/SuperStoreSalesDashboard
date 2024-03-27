@@ -8,9 +8,9 @@ Excel (For Data Cleaning Purpose)
 Power Bi (For creating dashboard and Presentation)
 
 Steps Overview: 
-Data subset collected from online. 
-Understanding the Data. 
-Data Cleaning & Finding Missing values. 
+Data subset collected from online.  
+Understanding the Data.  
+Data Cleaning & Finding Missing Values.  
 Data Visualization.
 
 
